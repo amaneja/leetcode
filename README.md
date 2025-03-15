@@ -1,2 +1,2 @@
 # leetcode
-LeetCode
+This repository contains problem wise LeetCode solutions in Java
